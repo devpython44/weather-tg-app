@@ -1,0 +1,23 @@
+# Файлы окружения с секретами
+.env
+
+# Виртуальное окружение Python
+venv/
+.env/
+.venv/
+*.pyc
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
